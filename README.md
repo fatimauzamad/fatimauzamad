@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fatima, I love studying industries!!
+- 👋 Hi, I’m Fatima, I love studying industries using data!!
 - 👀 I’m interested in Strategy Consulting and I have made this Git showcase my work 
 - 🌱 I’m currently learning PowerBI to generate business insights and develop my business intellgience skills 
 - 💞️ Please have a look at my vizs and let me know if there are any exciting projects I can look to design a dashboard on 
